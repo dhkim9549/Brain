@@ -1,0 +1,8 @@
+JarIndex-Version: 1.0
+
+slf4j-log4j12.jar
+org
+org/slf4j
+org/slf4j/impl
+org/slf4j/spi
+

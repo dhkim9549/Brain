@@ -1,0 +1,7 @@
+com.google.bitcoin.core
+com.google.bitcoin.discovery
+com.google.bitcoin.store
+com.google.bitcoin.uri
+com.google.bitcoin.utils
+org.bitcoin.protocols.payments
+org.bitcoinj.wallet
